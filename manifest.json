@@ -1,0 +1,25 @@
+{
+  "name": "EGOROVNAGAMES",
+  "short_name": "EGOROVNAGAMES",
+  "start_url": "/",
+  "scope": "/",
+  "lang": "ru",
+  "theme_color": "#a9b7c6",
+  "display": "standalone",
+  "background_color": "#2b2b2b",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "images/icon.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "images/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
